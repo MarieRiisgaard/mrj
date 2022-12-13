@@ -1,0 +1,19 @@
+# Investigation of AOB
+
+File organistaion 
+
+To do: 
+ - move all g__nitrosomonas files in folder exploratory_results and corrrect paths! 
+ - Consider making a start-up script to make common varibles   
+
+
+## First investigate of g__Nitrosomonas 
+
+Analysis 
+ - BAKTA: used for CDF prediction and classification
+ - gtbk: Classify MAGs to: 
+    - Find reference genomes to compare with Midas classification --> See Caitlins files included 
+
+
+
+
